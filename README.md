@@ -55,7 +55,7 @@
 ## Administration Dashboard
 
 <p align="center">
-  <img src="./images/لوحة الادمن تتبع السائقين.png" width="100%" />
+  <img src="./images/admin1.png" width="100%" />
 </p>
 
 ---
