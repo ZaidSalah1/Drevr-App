@@ -1,17 +1,23 @@
-# Drevr-App
 # 📸 Application Screenshots
 
-<p align="center">
-  <img src="./images/1.png" width="250"/>
-  <img src="./images/2.png" width="250"/>
-  <img src="./images/3.png" width="250"/>
-  <img src="./images/4.png" width="250"/>
-</p>
+<img src="./images/1.png" width="100%"/>
+
+<br><br>
+
+<img src="./images/2.png" width="100%"/>
+
+<br><br>
+
+<img src="./images/3.png" width="100%"/>
+
+<br><br>
+
+<img src="./images/4.png" width="100%"/>
+
+---
 
 ## About Drevr
 
-Drevr is a modern ride-hailing platform inspired by Uber and Careem, designed to provide a seamless transportation experience for both passengers and drivers.
+Drevr is a modern ride-hailing platform inspired by Uber and Careem, designed to provide a seamless transportation experience for passengers and drivers through real-time trip tracking, smart ride management, live navigation, notifications, and a powerful administration system.
 
-The platform consists of a Passenger App, Driver App, Admin Dashboard, and a powerful backend system that enables real-time trip management, live location tracking, ride requests, notifications, earnings management, and much more.
-
-Built with scalability and performance in mind, Drevr delivers a reliable and intuitive experience across both iOS and Android platforms.
+The platform includes Passenger and Driver mobile applications alongside a comprehensive Admin Dashboard to efficiently manage users, trips, finances, and overall operations.
