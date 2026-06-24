@@ -41,13 +41,13 @@
 ## Driver Application
 
 <p align="center">
-  <img src="./images/تطبيق السائق استقبال الطلبات2.png" width="100%" />
+  <img src="./images/driver1.png" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./images/تطبيق السائق في رحلة.png" width="100%" />
+  <img src="./images/driver2.png" width="100%" />
 </p>
 
 ---
