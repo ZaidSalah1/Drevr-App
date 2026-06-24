@@ -1,6 +1,14 @@
 # Drevr
 
 <p align="center">
+  <strong>A Complete Ride-Hailing Platform Inspired by Uber & Careem</strong>
+</p>
+
+---
+
+## Passenger Application
+
+<p align="center">
   <img src="./images/1.png" width="100%" />
 </p>
 
@@ -22,13 +30,43 @@
   <img src="./images/4.png" width="100%" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="./images/5.png" width="100%" />
+</p>
+
+---
+
+## Driver Application
+
+<p align="center">
+  <img src="./images/تطبيق السائق استقبال الطلبات2.png" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./images/تطبيق السائق في رحلة.png" width="100%" />
+</p>
+
+---
+
+## Administration Dashboard
+
+<p align="center">
+  <img src="./images/لوحة الادمن تتبع السائقين.png" width="100%" />
+</p>
+
 ---
 
 ## Overview
 
-Drevr is a complete ride-hailing platform inspired by leading transportation solutions such as Uber and Careem, designed to provide a seamless and scalable mobility experience for both passengers and drivers.
+Drevr is a complete ride-hailing ecosystem designed to provide a seamless, reliable, and scalable transportation experience for both passengers and drivers.
 
-The platform consists of dedicated mobile applications for passengers and drivers, a comprehensive administration dashboard, and a powerful backend infrastructure responsible for managing real-time operations.
+Inspired by leading mobility platforms such as Uber and Careem, Drevr combines real-time technologies, modern mobile experiences, and a powerful administration system to efficiently manage the entire ride lifecycle.
+
+The platform consists of dedicated mobile applications for passengers and drivers, alongside a comprehensive web-based administration dashboard and a robust backend infrastructure responsible for handling all operational processes in real time.
 
 ---
 
@@ -52,23 +90,25 @@ The platform consists of dedicated mobile applications for passengers and driver
 * In-app chat and push notifications.
 * Trip history and ride details.
 * Ratings and reviews.
+* Multiple payment methods.
 
 ### Driver Application
 
-* Ride requests management.
-* Live navigation and route guidance.
-* Real-time location sharing.
-* Trip lifecycle management.
+* Receive and manage incoming ride requests.
+* Real-time navigation and route guidance.
+* Live location sharing during trips.
+* Complete trip lifecycle management.
 * Earnings tracking and withdrawal requests.
-* Driver availability management.
+* Availability and online status management.
 
 ### Administration Dashboard
 
 * Drivers and passengers management.
-* Real-time trips monitoring.
-* Financial management and reporting.
-* Driver verification workflow.
+* Real-time monitoring of trips and drivers.
+* Driver verification and approval workflow.
+* Financial operations and reporting.
 * Analytics and operational insights.
+* Notifications and system management.
 
 ---
 
@@ -99,7 +139,7 @@ The platform consists of dedicated mobile applications for passengers and driver
 
 ## Architecture
 
-The platform follows a scalable client-server architecture utilizing secure REST APIs and real-time WebSocket communication to ensure reliable trip management, live location tracking, and instant data synchronization.
+The platform follows a scalable client-server architecture utilizing secure REST APIs and real-time WebSocket communication to ensure reliable trip management, live location tracking, and instant synchronization across all system components.
 
 ---
 
